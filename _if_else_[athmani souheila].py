@@ -1,5 +1,5 @@
 firstname=input("Enter your first name: ")
-lastname=input("Enter your last name")
+lastname=input("Enter your last name: ")
 
 if firstname and lastname:
     print(f"Welcome, {firstname} {lastname}")
